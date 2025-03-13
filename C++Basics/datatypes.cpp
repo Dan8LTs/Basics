@@ -23,7 +23,7 @@
 
 #include <iostream>
 using namespace std;
-int main()
+static void datatypes()
 {
 	{
 		int a, b;
